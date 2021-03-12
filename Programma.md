@@ -1,3 +1,5 @@
+<img src="/images/kletskoppen.header.jpg" width="100%">
+
 # Impact workshop
 
 ## Program Overview
