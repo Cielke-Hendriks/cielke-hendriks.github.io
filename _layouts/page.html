@@ -1,9 +1,21 @@
-# <link rel="stylesheet" href="index.css">
-
-.homePage { 
-  background: url(images/achtergrond.jpg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
+<!DOCTYPE html>
+	<html>
+		<head>
+			<title>{{ page.title }}</title>
+			<!-- link to main stylesheet -->
+			<link rel="stylesheet" href="css\index.css">
+		</head>
+		<body>
+			<div class="container">
+			
+			{{ content }}
+			
+			</div><!-- /.container -->
+			<footer>
+	    		#<ul>
+	        	#	<li><a href="mailto:hankquinlanhub@gmail.com">email</a></li>
+	        	#	<li><a href="https://github.com/hankquinlan">github.com/hankquinlan</a></li>
+			#	</ul>
+			</footer>
+		</body>
+	</html>
