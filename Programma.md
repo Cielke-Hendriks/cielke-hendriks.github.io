@@ -1,7 +1,3 @@
-layout: page
-title: "Programma"
-permalink: /programma/
-
 # Impact workshop
 
 ## Program Overview
