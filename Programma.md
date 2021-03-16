@@ -1,8 +1,4 @@
 
----
-layout: page
----
-
 <img src="/images/kletskoppen.header.jpg" width="25%">
 
 # Impact workshop
