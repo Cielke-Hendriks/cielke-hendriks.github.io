@@ -24,11 +24,6 @@
 
 	<p>{{ site.description | default: site.github.project_tagline }}</p>
 
-	<!-- add links to timezone programs here  -->
-	<p><a href="{{ "/" | relative_url }}">{{ Program Amsterdam | default: site.github.repository_name/program_amsterdam }}</a></p>
-	<p><a href="{{ "/" | relative_url }}">{{ Program America | default: site.github.repository_name/program_america }}</a></p>
-
-
         {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
