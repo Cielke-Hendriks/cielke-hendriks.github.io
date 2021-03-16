@@ -20,13 +20,13 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-	<p>{{ site.programone | default: site.github.repository_name/program_amsterdam }}
-	{{ site.programtwo | default: site.github.repository_name/program_america }}</p>
+	<p></p>
+
+	<p>{{ site.description | default: site.github.project_tagline }}</p>
 
 	<!-- add links to timezone programs here  -->
-	<p><a href="{{ "/" | absolute_url }}">{{ site.programone | default: site.github.repository_name/program_amsterdam }}</a></p>
-	<p><a href="{{ "/" | absolute_url }}">{{ site.programtwo | default: site.github.repository_name/program_america }}</a></p>
+	<p><a href="{{ "/" | relative_url }}">{{ Program Amsterdam | default: site.github.repository_name/program_amsterdam }}</a></p>
+	<p><a href="{{ "/" | relative_url }}">{{ Program America | default: site.github.repository_name/program_america }}</a></p>
 
 
         {% if site.show_downloads %}
