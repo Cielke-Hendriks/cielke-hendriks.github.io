@@ -21,8 +21,8 @@
 title: Impact workshop
 description: Add description of the workshop here
 logo: images/kletskoppen.header.jpg
-programone: program_amsterdam.md
-programtwo: program_america.md
+ru: images/ru.logo.jpg
+mpi: images/mpi.logo.jpg
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
