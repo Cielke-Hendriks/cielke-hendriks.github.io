@@ -19,13 +19,11 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Impact workshop
-email: cielke.hendriks@mpi.nl
-description: none
+description: add description of the workshop here
+logo: images/kletskoppen.header.jpg
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: none
-github_username: none
 
 # Build settings
 theme: jekyll-theme-minimal
