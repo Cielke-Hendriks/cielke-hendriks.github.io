@@ -22,8 +22,10 @@
 
 2:40 - 3:00 &nbsp;&nbsp;&nbsp; Close / Chit-chat
 
+---
 
 Watch the videos of the people attending [here](./people)
 
+---
 
 Back to [Main page](./Programma.md)
