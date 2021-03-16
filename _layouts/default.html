@@ -14,13 +14,18 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <h1>{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</h1>
         
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
+
+	<!-- add links to timezone programs here -->
+	<p><a href="{{ site.programone | default: site.github.repository_name/program_amsterdam }}</a></p>
+	<p><a href="{{ site.programtwo | default: site.github.repository_name/program_america }}</a></p>
+
 
         {% if site.show_downloads %}
         <ul class="downloads">

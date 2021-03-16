@@ -1,6 +1,3 @@
-
-<img src="/images/kletskoppen.header.jpg" width="25%">
-
 ## Program Overview
 
 ### ....day, date
