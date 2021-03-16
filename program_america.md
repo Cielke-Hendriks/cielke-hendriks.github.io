@@ -2,7 +2,7 @@
 
 ### ....day, date
 
-0:00 - 0:10 &nbsp;&nbsp;&nbsp; Introduction [people](./people)
+0:00 - 0:10 &nbsp;&nbsp;&nbsp; Introduction
 
 0:10 - 0:30 &nbsp;&nbsp;&nbsp; Presentation 1 - Kletskoppen? [abstract](./abstracts/testtext.md#kletskoppen)
 
@@ -21,5 +21,9 @@
 2:25 - 2:40 &nbsp;&nbsp;&nbsp; Wrapping up
 
 2:40 - 3:00 &nbsp;&nbsp;&nbsp; Close / Chit-chat
+
+
+Watch the videos of the people attending [here](./people)
+
 
 Back to [Main page](./Programma.md)
