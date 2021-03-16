@@ -2,9 +2,9 @@
 
 ### ....day, date
 
-0:00 - 0:10 &nbsp;&nbsp;&nbsp; Introduction
+0:00 - 0:10 &nbsp;&nbsp;&nbsp; Introduction [people](./people)
 
-0:10 - 0:30 &nbsp;&nbsp;&nbsp; Presentation 1 - Kletskoppen?
+0:10 - 0:30 &nbsp;&nbsp;&nbsp; Presentation 1 - Kletskoppen? [abstract](./abstracts/testtext.md#kletskoppen)
 
 0:30 - 0:50 &nbsp;&nbsp;&nbsp; Breakout session 1
 
