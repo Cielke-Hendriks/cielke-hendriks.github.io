@@ -24,6 +24,11 @@
 
 	<p>{{ site.description | default: site.github.project_tagline }}</p>
 
+	<li><a href="{{ site.people }}"></a></li>
+	<li><a href="{{ site.abstract }}"></a></li>
+	<p>{{ site.people | default: site.github.project_tagline }}</p>
+	<p>{{ site.abstract | default: site.github.project_tagline }}</p>
+
         {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
