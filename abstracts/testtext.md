@@ -10,4 +10,6 @@ Write some text here.
 
 Write some text here.
 
-Back to [Main page](../Programma.md)
+---
+
+Back to [Main page](../Programma.md) | [Programme America](../program_america.md) | [Programme Amsterdam](../program_amsterdam.md)
