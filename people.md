@@ -1,6 +1,6 @@
 ## List of people attending
 
-Person 1 [video](./videos/testvid.mp4)
+Person 1 [video](./videos/testvid.mp4) [website](https://kletskoppenfestival.nl)
 
 Person 2 - no video yet
 
