@@ -1,6 +1,6 @@
 ## Program Overview Amsterdam time
 
-### ....day, date
+### Thursday, 10 June 2021
 
 0:00 - 0:10 &nbsp;&nbsp;&nbsp; Introduction
 
