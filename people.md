@@ -9,4 +9,4 @@
 
 ---
 
-Back to | [Programme America](./program_america.md) | [Programme Amsterdam](./program_amsterdam.md)
+Go to | [Programme America](./program_america.md) | [Programme Amsterdam](./program_amsterdam.md)

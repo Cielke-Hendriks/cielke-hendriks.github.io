@@ -24,7 +24,7 @@
 
 ---
 
-Watch the videos of the people attending [here](./people)
+Meet the other people attending before we start [here](./people)
 
 ---
 
