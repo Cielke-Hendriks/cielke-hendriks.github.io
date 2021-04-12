@@ -19,7 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: (K)Let's connect!
-description: Webinar on societal impact in the language sciences. Click [here](./description) for more information.
+description: Webinar on societal impact in the language sciences.
+descriptiontext: description.md
 logo: images/kletskoppen.header.png
 ru: images/ru.logo.jpg
 mpi: images/mpi.logo.jpg
