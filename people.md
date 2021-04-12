@@ -6,7 +6,3 @@
 |Person 2|video|website|
 |Person 3|video|website|
 |Person 4|video|website|
-
----
-
-Go to | [Programme America](./program_america.md) | [Programme Amsterdam](./program_amsterdam.md)

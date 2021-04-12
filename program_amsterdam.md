@@ -27,6 +27,3 @@
 
 Meet the other people attending before we start [here](./people)
 -->
----
-
-Back to [Main page](./Programma.md)
