@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Impact workshop
-description: Add description of the workshop here
+title: (K)Let's connect!
+description: Webinar on societal impact in the language sciences. Click [here](./description) for more information.
 logo: images/kletskoppen.header.png
 ru: images/ru.logo.jpg
 mpi: images/mpi.logo.jpg
