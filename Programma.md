@@ -1,7 +1,3 @@
-### *Click [here](./description.md) for more information about the webinar*
-
-#
-
 ## Program Overview
 
 ### Thursday, 10 June 2021
