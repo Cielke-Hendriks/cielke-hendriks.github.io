@@ -16,18 +16,12 @@
       <header>
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
 
-	<p>{{ site.description | default: site.github.project_tagline }}</p>
-
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
 	<p></p>
-
-	<p>{{ site.description | default: site.github.project_tagline }}</p>
-	<p>Click <a href="file:///C:\Users\cielk\Documents\GitHub\cielke-hendriks.github.io\description.md">here</a> for more information.</p>
-	<p>Click <a href="https://github.com/Cielke-Hendriks/cielke-hendriks.github.io/blob/gh-pages/description.md">here</a> for more information.</p>
-
+	
 	<p>{{ site.descriptiontext }}</p>
 	
         {% if site.show_downloads %}
