@@ -21,8 +21,8 @@
 title: (K)Let's connect!
 description: Webinar on societal impact in the language sciences.
 logo: images/kletskoppen.header.png
-ru: images/ru.logo.jpg
-mpi: images/mpi.logo.jpg
+ru: images/ru.logo.png
+mpi: images/mpi.logo.png
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
