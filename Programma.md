@@ -4,6 +4,6 @@
 
 You can find the schedules for each timezone here
 
-[Amsterdam](./program_amsterdam.md)
+[CET](./program_amsterdam.md)
 
-[America](./program_america.md)
+[CET-6](./program_america.md)

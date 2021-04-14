@@ -13,9 +13,9 @@ Kletskoppen is of course just one example of how language scientists are generat
 
 ### Format of the webinar
 The **format** involves a mix of short presentations and small group discussions. The **short presentations** (10-min + 10-min questions) will showcase concrete examples of successful impact activities. Three presenters share at least one activity of which they are particularly proud. In addition, presenters will be asked to reflect on any issues they have encountered whilst developing this activity and how they dealt with this. In the group discussions, participants are invited to exchange experiences in three breakout sessions structured around different topics. These are: 
-(1) How to reach a diverse and inclusive audience?
-(2) How to measure (societal) impact?
-(3) How to embed impact activities in the structure of the university?  
+1. How to reach a diverse and inclusive audience?
+2. How to measure (societal) impact?
+3. How to embed impact activities in the structure of the university?  
 
 ### Intended outcomes
 Our intended **outcomes** are that at the end of the webinar:
