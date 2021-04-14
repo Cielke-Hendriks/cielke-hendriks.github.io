@@ -12,7 +12,7 @@
 
 10:10 - 10:25 &nbsp;&nbsp;&nbsp; Breakout session 2
 
-10:25 - 10:45 &nbsp;&nbsp;&nbsp; Break / chit-chat
+10:25 - 10:45 &nbsp;&nbsp;&nbsp; Break / Chit-chat
 
 10:45 - 11:05 &nbsp;&nbsp;&nbsp; Presentation 3 - [Cat Davies](https://ahc.leeds.ac.uk/languages/staff/699/dr-catherine-davies), language scientist at University of Leeds, UK. She’ll talk about her experiences in evidence-based practice with Speech and Language Therapists and engaging government officials. <!-- [abstract](./abstracts/testtext.md#kletskoppen) -->
 
